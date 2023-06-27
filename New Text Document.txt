@@ -1,4 +1,4 @@
 def save(self):
 	x = int(input())
-	x = x * 4 + 2
+	x = x * 4 + 3
 	return x
