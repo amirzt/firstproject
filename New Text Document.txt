@@ -1,2 +1,2 @@
 def save(self):
-	pass
+	return 3
