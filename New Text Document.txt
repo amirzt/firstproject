@@ -1,2 +1,4 @@
 def save(self):
-	return self*3
+	x = int(input())
+	x = x + 3
+	return x
