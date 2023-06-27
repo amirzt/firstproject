@@ -1,2 +1,2 @@
 def save(self):
-	return 3
+	return self*3
